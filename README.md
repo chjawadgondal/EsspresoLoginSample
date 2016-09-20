@@ -3,7 +3,7 @@
 This is a sample project to give you a very basic understanding to integrate automated testing into your application using esspresso. The main difficult thing is handling ascyn call testing. When some thing responce back after a delay.
 Idling Resource provided by the android support library has been used for this purpose.
 
-[![Esspreso login test application](https://j.gifs.com/PNLvp1.gif)](https://www.youtube.com/watch?v=8XxnIcrwA3Q)
+[![Esspreso login test application](https://j.gifs.com/lY1n1J.gif)](https://youtu.be/m2IqX0mrhGw)
 
 ### What is this repository for? ###
 
